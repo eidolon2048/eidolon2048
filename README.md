@@ -1,4 +1,4 @@
-== Hi 👋 My name is Roma 
+Hi 👋 My name is Roma 
 =====================  
 I am from Ukraine. I graduated from WBS coding school.
 
