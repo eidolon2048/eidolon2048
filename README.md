@@ -1,7 +1,8 @@
 Hey 👋 My name is Roma 
 =====================  
- I'm a Data Scientist, from Ukraine.
- I graduated from WBS coding school.
+ ✨I'm a Data Scientist, from Ukraine.
+ 
+ 🧑‍🎓I graduated from WBS coding school.
 
 
 ### Skills  
