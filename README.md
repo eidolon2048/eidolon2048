@@ -6,7 +6,11 @@ I'm a Data Scientist, from Ukraine.
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>🧑‍🎓 I graduated from WBS coding school<br>🎯 Goal: Become an AI expert<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since December 2022
+ <br>🧑‍🎓 I graduated from WBS coding school
+ <br>🎯 Goal: Become an AI expert
+ <br>🎲 Fun fact: I ran a half marathon
+</p>
 
 <h2 align="left">I code with</h2>
 
