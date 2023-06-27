@@ -1,16 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Roma and I'm a Data Scientist, from Ukraine.</p>
-
-###
-
-
-
-Hi 👋 My name is Roma 
+Hey 👋 My name is Roma 
 =====================  
-I am from Ukraine. I graduated from WBS coding school.
+ I'm a Data Scientist, from Ukraine.
+ I graduated from WBS coding school.
 
 
 ### Skills  
