@@ -1,6 +1,5 @@
-# Hey 👋 
-
-My name is Roma 
+<h1 llighn="left"> Hey 👋 
+ <br>My name is Roma 
 =====================  
 I'm a Data Scientist, from Ukraine.
 <br>I'm currently leaving in the UK
