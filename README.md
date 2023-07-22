@@ -1,4 +1,6 @@
-Hey 👋 My name is Roma 
+Hey 👋 
+
+My name is Roma 
 =====================  
 I'm a Data Scientist, from Ukraine.
 <br>I'm currently leaving in the UK
