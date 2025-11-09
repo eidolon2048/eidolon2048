@@ -11,6 +11,7 @@ I'm a Data Scientist, from Ukraine.
 
 <p align="left">✨ Creating bugs since December 2022
  <br>🧑‍🎓 I graduated from WBS coding school
+ <br>🙇‍♂️ Now study at University of Portsmouth
  <br>🎲 Fun fact: I ran a half marathon
 </p>
 
