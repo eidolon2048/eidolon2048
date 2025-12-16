@@ -1,87 +1,158 @@
-<h1 align="left">
-  Hey 👋 my name is Roma
-</h1>
+<h1 align="left">Hey 👋 my name is Roma</h1>
 
-<div>
-
-<table width="150%">
+<table align="left" width="100%">
 <tr>
-<td width="60%" valign="top">
+  <!-- LEFT COLUMN -->
+  <td width="58%" valign="top">
+    <h2>About me</h2>
 
-<h2>About me</h2>
+  <p>
+    I'm a <b>Data Scientist</b> from Ukraine 🇺🇦<br />
+    Currently living in the UK 🇬🇧
+  </p>
 
-<p>
-I'm a <b>Data Scientist</b> from Ukraine 🇺🇦<br>
-Currently living in the UK 🇬🇧
-</p>
+  <p>
+    🙇‍♂️ Studying at the University of Portsmouth<br />
+    ✨ Creating bugs since December 2022<br />
+    🧑‍🎓 Graduate of WBS Coding School<br />
+    🎲 Fun fact: I ran a half marathon
+  </p>
 
-<p>
-🙇‍♂️ Studying at the University of Portsmouth<br>
-✨ Creating bugs since December 2022<br>
-🧑‍🎓 Graduate of WBS Coding School<br>
-🎲 Fun fact: I ran a half marathon
-</p>
-
-<b>Socials</b><br><br>
-<a href="https://www.github.com/eidolon2048" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
-</a>
-<a href="https://www.instagram.com/roma_kvt" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/>
-</a>
-<a href="https://www.linkedin.com/in/kovtunchyk" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
-</a>
-
+  <b>Socials</b>
+  
+  <a href="https://www.github.com/eidolon2048" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+      width="32"
+      height="32"
+      alt="GitHub"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/roma_kvt" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+      width="32"
+      height="32"
+      alt="Instagram"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kovtunchyk" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+      width="32"
+      height="32"
+      alt="LinkedIn"
+    />
+  </a>
 </td>
 
-<td width="40%" valign="top">
+<!-- GUTTER -->
 
-<h2>I code with</h2>
 
-<b>Languages</b><br><br>
+<!-- RIGHT COLUMN -->
+<td width="38%" valign="top">
+  <h2>I code with</h2>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" height="36"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/>
-</a>
+  <b>Languages</b>
 
-<br><br>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+      width="36"
+      height="36"
+      alt="Python"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+      width="36"
+      height="36"
+      alt="PostgreSQL"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+      width="36"
+      height="36"
+      alt="MySQL"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+      width="36"
+      height="36"
+      alt="R"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      width="36"
+      height="36"
+      alt="HTML5"
+    />
+  </a>
 
-<b>Libraries</b><br><br>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" height="36"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36"/>
-</a>
 
-</td>
+
+  <b>Libraries</b>
+
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+      width="36"
+      height="36"
+      alt="OpenCV"
+    />
+  </a>
+  &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+      width="36"
+      height="36"
+      alt="Pandas"
+    />
+  </a>
+  &nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      width="36"
+      height="36"
+      alt="scikit-learn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+      width="36"
+      height="36"
+      alt="Seaborn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      width="36"
+      height="36"
+      alt="TensorFlow"
+    />
+  </a>
+  </td>
 </tr>
 </table>
 
-</div>
-
-<hr>
-
-<h3>⬇️ Check out my projects</h3>
+<br clear="both" />
+<h3>⬇️ Check out my projects ⬇️</h3>
