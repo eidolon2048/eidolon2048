@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋 my name is Roma
-<br>Data Science and AI </br>
 </h1>
 
 
