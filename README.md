@@ -23,15 +23,6 @@
 
   <b>Socials</b>
   
-  <a href="https://www.github.com/eidolon2048" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-      width="32"
-      height="32"
-      alt="GitHub"
-    />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/roma_kvt" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
