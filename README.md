@@ -104,6 +104,15 @@
       alt="HTML5"
     />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      width="36"
+      height="36"
+      alt="CSS3"
+    />
+  </a>
+
 
 
 
