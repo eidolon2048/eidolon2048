@@ -1,6 +1,10 @@
-<h1 align="left">Hey 👋 my name is Roma</h1>
+<h1 align="center">Hey 👋 my name is Roma
+<br>Data Science and AI </br>
+</h1>
 
-<table align="left" width="100%">
+
+
+<table align="center" width="100%">
 <tr>
   <!-- LEFT COLUMN -->
   <td width="58%" valign="top">
@@ -155,4 +159,4 @@
 </table>
 
 <br clear="both" />
-<h3>⬇️ Check out my projects ⬇️</h3>
+<h3 align="center">⬇️ Check out my projects ⬇️</h3>
