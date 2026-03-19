@@ -84,12 +84,12 @@ I focus on:
 
 ### 🛒 Food Wholesale Platform (PostgreSQL Database)
 
-* Designed full relational schema (~20+ tables)
+* Designed full relational schema (20+ tables)
 * Implemented:
 
   * Foreign keys & constraints
   * Indexing strategy
-  * Realistic synthetic dataset (~700+ orders)
+  * Realistic synthetic dataset (700+ orders)
 * Installed database on Debian VM
 * **Focus:** production-level database design
   * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
