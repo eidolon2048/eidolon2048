@@ -1,6 +1,6 @@
 # Hi, I'm Roma
 
-I’m a **Data Science & Artificial Intelligence student at the University of Portsmouth**, focused on building real-world systems combining **machine learning, databases, and analytics**.
+I’m a **Data Science & Artificial Intelligence student at the University of Portsmouth**, focused on building real-world systems combining **machine learning, databases, and analytics with a strong business mindset**.
 
 ---
 
