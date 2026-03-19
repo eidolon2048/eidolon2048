@@ -50,8 +50,6 @@ I focus on:
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-
-
 ---
 
 ## 👨‍💻 Projects
