@@ -1,161 +1,109 @@
-<h1 align="center">Hey 👋 my name is Roma
-</h1>
+# Hi, I'm Roma
 
+I’m a **Data Science & Artificial Intelligence student at the University of Portsmouth**, focused on building real-world systems combining **machine learning, databases, and analytics**.
 
+---
 
-<table align="center" width="100%">
-<tr>
-  <!-- LEFT COLUMN -->
-  <td width="58%" valign="top">
-    <h2>About me</h2>
+## 📊 About Me
 
-  <p>
-    I'm a <b>Data Scientist</b> from Ukraine 🇺🇦<br />
-    Currently living in the UK 🇬🇧
-  </p>
+* 🎓 BSc (Hons) Data Science & AI
+* 📍 Based in the UK
+* 🧠 Background in **Aerospace Engineering + Marketing**
+* 🎯 Target: **Data Scientist / AI / ML Internship (2026)**
 
-  <p>
-    🙇‍♂️ Studying at the University of Portsmouth<br />
-    ✨ Creating bugs since December 2022<br />
-    🧑‍🎓 Graduate of WBS Coding School<br />
-    🎲 Fun fact: I ran a half marathon
-  </p>
+I focus on:
 
-  <b>Socials</b>
-  
-  <a href="https://www.instagram.com/roma_kvt" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-      width="32"
-      height="32"
-      alt="Instagram"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kovtunchyk" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-      width="32"
-      height="32"
-      alt="LinkedIn"
-    />
-  </a>
-</td>
+* End-to-end data workflows
+* Machine learning & model evaluation
+* Database design (PostgreSQL)
+* Building production-style projects
 
-<!-- GUTTER -->
+---
+## 🛠️ Tech Stack
 
+### Languages & Core Tools
 
-<!-- RIGHT COLUMN -->
-<td width="38%" valign="top">
-  <h2>I code with</h2>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-  <b>Languages</b>
+### Data Science & ML
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-      width="36"
-      height="36"
-      alt="Python"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-      width="36"
-      height="36"
-      alt="PostgreSQL"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-      width="36"
-      height="36"
-      alt="MySQL"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
-      width="36"
-      height="36"
-      alt="R"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      width="36"
-      height="36"
-      alt="HTML5"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      width="36"
-      height="36"
-      alt="CSS3"
-    />
-  </a>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABE1?style=for-the-badge\&logo=python\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
 
+### Tools & Workflow
 
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
+---
 
-  <b>Libraries</b>
+## 👨‍💻 Projects
 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-      width="36"
-      height="36"
-      alt="OpenCV"
-    />
-  </a>
-  &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-      width="36"
-      height="36"
-      alt="Pandas"
-    />
-  </a>
-  &nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      width="36"
-      height="36"
-      alt="scikit-learn"
-    />
-  </a>
-  &nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-      width="36"
-      height="36"
-      alt="Seaborn"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      width="36"
-      height="36"
-      alt="TensorFlow"
-    />
-  </a>
-  </td>
-</tr>
-</table>
+### 🧠 Ethical AI – Trolley Problem Simulator
 
-<br clear="both" />
-<h3 align="center">⬇️ Check out my projects ⬇️</h3>
+* Built a decision-making system comparing **utilitarian vs deontological ethics**
+* Designed scoring algorithms using human attributes (age, role, survival probability)
+* Focus: **Explainable AI & decision systems**
+
+---
+
+### 😐 Facial Emotion Recognition (TensorFlow)
+
+* Developed a computer vision model to classify facial emotions
+* Used OpenCW + TensorFlow for training and prediction
+* Focus: **Deep Learning & real-time prediction**
+
+---
+
+### 🏠 Housing Price Prediction (Machine Learning)
+
+* Built regression models for price prediction
+* Feature engineering (TotalSF, PropertyAge, etc.)
+* Model comparison (Linear Regression, Decision Tree, KNN)
+* Focus: **model evaluation & interpretability**
+
+---
+
+### 🛒 Food Wholesale Platform (PostgreSQL Database)
+
+* Designed full relational schema (~20+ tables)
+* Implemented:
+
+  * Foreign keys & constraints
+  * Indexing strategy
+  * Realistic synthetic dataset (~700+ orders)
+* Focus: **production-level database design**
+
+---
+
+## 📈 What I’m Working On
+
+* Improving ML pipelines (feature engineering, tuning, evaluation)
+* Building end-to-end data systems (DB + ML + apps)
+* Preparing for **Data Science internships (2026)**
+
+---
+
+## 🎯 What Makes Me Different
+
+* Combine **technical + business thinking**
+* Build **complete systems (not just notebooks)**
+* Strong focus on **clean, structured, production-style work**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/kovtunchyk/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" > </a> </p>
+
+---
