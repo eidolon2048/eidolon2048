@@ -61,7 +61,6 @@ I focus on:
 * Focus: **Explainable AI & decision systems**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
----
 
 ### 😐 [Facial Emotion Recognition (TensorFlow)](https://github.com/eidolon2048/Bootcamp-Projects/tree/main/Emotional%20recognition)
 
@@ -70,7 +69,6 @@ I focus on:
 * Focus: **Deep Learning & real-time prediction**
   * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
 
 ### 🏠 Housing Price Prediction (Machine Learning)
 
@@ -80,7 +78,6 @@ I focus on:
 * Focus: **model evaluation & interpretability**
   * ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
----
 
 ### 🛒 Food Wholesale Platform (PostgreSQL Database)
 
