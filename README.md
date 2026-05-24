@@ -95,14 +95,6 @@ Live Streamlit App: [https://emotial-recognition.streamlit.app](https://emotial-
 
 ---
 
-## 📈 What I’m Working On
-
-* Improving ML pipelines (feature engineering, tuning, evaluation)
-* Building end-to-end data systems (DB + ML + apps)
-* Preparing for **Data Science internships (2026)**
-
----
-
 ## 📫 Connect With Me
 
 <p align="left"> <a href="https://www.linkedin.com/in/kovtunchyk/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" > </a> </p>
