@@ -103,15 +103,6 @@ Live Streamlit App: [https://emotial-recognition.streamlit.app](https://emotial-
 
 ---
 
-## 🎯 What Makes Me Different
-
-* Combine **technical + business thinking**
-* Build **complete systems (not just notebooks)**
-* Strong focus on **clean, structured, production-style work**
-* Planning my next project: Multi-Agent Marketing Intelligence System
-
----
-
 ## 📫 Connect With Me
 
 <p align="left"> <a href="https://www.linkedin.com/in/kovtunchyk/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" > </a> </p>
