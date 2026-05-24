@@ -15,7 +15,6 @@ I focus on:
 
 * End-to-end data workflows
 * Machine learning & model evaluation
-* Database design (PostgreSQL)
 * Building production-style projects
 
 ---
