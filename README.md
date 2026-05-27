@@ -1,6 +1,8 @@
-# Hi, I'm Roma
+<h2 align="center"> 👋 Hi, I'm Roma</h2>
 
-I’m a **Data Science & Artificial Intelligence student at the University of Portsmouth**, focused on building real-world systems combining **machine learning, databases, and analytics with a strong business mindset**.
+<p align="center">
+  I’m a <strong>Data Science & Artificial Intelligence student at the University of Portsmouth</strong>, focused on building real-world systems combining <strong>machine learning, databases, and analytics with a strong business mindset</strong>.
+</p>
 
 ---
 
@@ -91,11 +93,14 @@ I focus on:
 * Installed database on Debian VM
 * **Focus:** production-level database design
   * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
-<p align="left"> <a href="https://www.linkedin.com/in/kovtunchyk/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60" > </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kovtunchyk/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="60">
+  </a>
+</p>
 
 ---
