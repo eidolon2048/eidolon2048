@@ -64,7 +64,7 @@ I focus on:
 
 ### 😐 [Facial Emotion Recognition (TensorFlow)](https://github.com/eidolon2048/Bootcamp-Projects/tree/main/Emotional%20recognition)
 
-Live Streamlit App: [https://emotial-recognition.streamlit.app](https://emotial-recognition.streamlit.app)
+  > [Live Streamlit App](https://emotial-recognition.streamlit.app)
 * Developed a computer vision model to classify facial emotions
 * Used OpenCW + TensorFlow for training and prediction
 * Focus: **Deep Learning & real-time prediction**
