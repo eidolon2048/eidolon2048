@@ -60,7 +60,7 @@ I focus on:
 
 * Built a decision-making system comparing **utilitarian vs deontological ethics**
 * Designed scoring algorithms using human attributes (age, role, survival probability)
-* Focus: **Explainable AI & decision systems**
+* **Focus on:** Explainable AI & decision systems
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 
@@ -69,7 +69,7 @@ I focus on:
   > [Live Streamlit App](https://emotial-recognition.streamlit.app)
 * Developed a computer vision model to classify facial emotions
 * Used OpenCW + TensorFlow for training and prediction
-* Focus: **Deep Learning & real-time prediction**
+* **Focus on:** Deep Learning & real-time prediction
   * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=TensorFlow\&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 
@@ -78,7 +78,7 @@ I focus on:
 * Built regression models for price prediction
 * Feature engineering (TotalSF, PropertyAge, etc.)
 * Model comparison (Linear Regression, Decision Tree, KNN)
-* Focus: **model evaluation & interpretability**
+* **Focus on:** model evaluation & interpretability
   * ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
 
@@ -91,7 +91,7 @@ I focus on:
   * Indexing strategy
   * Realistic synthetic dataset (700+ orders)
 * Installed database on Debian VM
-* **Focus:** production-level database design
+* **Focus on:** production-level database design
   * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ---
 
