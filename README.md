@@ -64,7 +64,7 @@ I focus on:
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 
-### 😐 [Facial Emotion Recognition (TensorFlow)](https://github.com/eidolon2048/Bootcamp-Projects/tree/main/Emotional%20recognition)
+### 😐 [Facial Emotion Recognition](https://github.com/eidolon2048/Bootcamp-Projects/tree/main/Emotional%20recognition)
 
   > [Live Streamlit App](https://emotial-recognition.streamlit.app)
 * Developed a computer vision model to classify facial emotions
