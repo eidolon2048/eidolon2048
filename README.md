@@ -56,7 +56,7 @@ I focus on:
 
 ## 👨‍💻 Projects
 
-### 🧠 Ethical AI – Trolley Problem Simulator
+### 🧠 [Ethical AI – Trolley Problem Simulator](https://github.com/eidolon2048/University-Coursework/tree/main/year%201/trolley-problem)
 
 * Built a decision-making system comparing **utilitarian vs deontological ethics**
 * Designed scoring algorithms using human attributes (age, role, survival probability)
